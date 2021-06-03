@@ -73,10 +73,10 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1929,1930,3,ACTOR,George Arliss,Disraeli,TRUE
 1929,1930,3,ACTRESS,Norma Shearer,The Divorcee,TRUE
 1929,1930,3,ART DIRECTION,Herman Rosse,King of Jazz,TRUE
-1929,1930,3,CINEMATOGRAPHY,Joseph T. Rucker\rWillard Van Der Veer,With Byrd at the South Pole,TRUE
+1929,1930,3,CINEMATOGRAPHY,"Joseph T. Rucker, Willard Van Der Veer",With Byrd at the South Pole,TRUE
 1929,1930,3,DIRECTING,Lewis Milestone,All Quiet on the Western Front,TRUE
 1929,1930,3,OUTSTANDING PRODUCTION,Universal,All Quiet on the Western Front,TRUE
-1929,1930,3,SOUND RECORDING,Metro-Goldwyn-Mayer Studio\rDouglas Shearer,The Big House,TRUE
+1929,1930,3,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio, Douglas Shearer",The Big House,TRUE
 1929,1930,3,WRITING,Frances Marion,The Big House,TRUE
 1929,1930,3,ACTOR,George Arliss,The Green Goddess,FALSE
 1929,1930,3,ACTOR,Wallace Beery,The Big House,FALSE
@@ -94,7 +94,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1929,1930,3,ART DIRECTION,Hans Dreier,The Vagabond King,FALSE
 1929,1930,3,CINEMATOGRAPHY,Arthur Edeson,All Quiet on the Western Front,FALSE
 1929,1930,3,CINEMATOGRAPHY,William Daniels,Anna Christie,FALSE
-1929,1930,3,CINEMATOGRAPHY,Gaetano Gaudio\nHarry Perry,Hell's Angels,FALSE
+1929,1930,3,CINEMATOGRAPHY,"Gaetano Gaudio, Harry Perry",Hell's Angels,FALSE
 1929,1930,3,CINEMATOGRAPHY,Victor Milner,The Love Parade,FALSE
 1929,1930,3,DIRECTING,Clarence Brown,Anna Christie,FALSE
 1929,1930,3,DIRECTING,Robert Leonard,The Divorcee,FALSE
