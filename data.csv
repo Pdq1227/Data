@@ -1124,26 +1124,26 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1941,1942,14,FILM EDITING,James B. Clark,How Green Was My Valley,FALSE
 1941,1942,14,FILM EDITING,Daniel Mandell,The Little Foxes,FALSE
 1941,1942,14,FILM EDITING,William Holmes,Sergeant York,TRUE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Bernard Herrmann,All That Money Can Buy,TRUE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Frank Skinner,Back Street,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Alfred Newman,Ball of Fire,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Edward Ward,Cheers for Miss Bishop,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Bernard Herrmann,Citizen Kane,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Franz Waxman,Dr. Jekyll and Mr. Hyde,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Victor Young,Hold Back the Dawn,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Alfred Newman,How Green Was My Valley,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Edward Kay,King of the Zombies,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),"Morris Stoloff, Ernst Toch",Ladies in Retirement,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Meredith Willson,The Little Foxes,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Miklos Rozsa,Lydia,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),"Cy Feuer, Walter Scharf",Mercy Island,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Max Steiner,Sergeant York,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Louis Gruenberg,So Ends Our Night,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Miklos Rozsa,Sundown,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Franz Waxman,Suspicion,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Edward Ward,Tanks a Million,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Werner Heymann,That Uncertain Feeling,FALSE
-1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Richard Hageman,This Woman Is Mine,FALSE
+1941,1942,14,MUSIC (Original Score),Bernard Herrmann,All That Money Can Buy,TRUE
+1941,1942,14,MUSIC (Original Score),Frank Skinner,Back Street,FALSE
+1941,1942,14,MUSIC (Original Score),Alfred Newman,Ball of Fire,FALSE
+1941,1942,14,MUSIC (Original Score),Edward Ward,Cheers for Miss Bishop,FALSE
+1941,1942,14,MUSIC (Original Score),Bernard Herrmann,Citizen Kane,FALSE
+1941,1942,14,MUSIC (Original Score),Franz Waxman,Dr. Jekyll and Mr. Hyde,FALSE
+1941,1942,14,MUSIC (Original Score),Victor Young,Hold Back the Dawn,FALSE
+1941,1942,14,MUSIC (Original Score),Alfred Newman,How Green Was My Valley,FALSE
+1941,1942,14,MUSIC (Original Score),Edward Kay,King of the Zombies,FALSE
+1941,1942,14,MUSIC (Original Score),"Morris Stoloff, Ernst Toch",Ladies in Retirement,FALSE
+1941,1942,14,MUSIC (Original Score),Meredith Willson,The Little Foxes,FALSE
+1941,1942,14,MUSIC (Original Score),Miklos Rozsa,Lydia,FALSE
+1941,1942,14,MUSIC (Original Score),"Cy Feuer, Walter Scharf",Mercy Island,FALSE
+1941,1942,14,MUSIC (Original Score),Max Steiner,Sergeant York,FALSE
+1941,1942,14,MUSIC (Original Score),Louis Gruenberg,So Ends Our Night,FALSE
+1941,1942,14,MUSIC (Original Score),Miklos Rozsa,Sundown,FALSE
+1941,1942,14,MUSIC (Original Score),Franz Waxman,Suspicion,FALSE
+1941,1942,14,MUSIC (Original Score),Edward Ward,Tanks a Million,FALSE
+1941,1942,14,MUSIC (Original Score),Werner Heymann,That Uncertain Feeling,FALSE
+1941,1942,14,MUSIC (Original Score),Richard Hageman,This Woman Is Mine,FALSE
 1941,1942,14,MUSIC (Scoring of a Musical Picture),Edward Ward,All-American Co-Ed,FALSE
 1941,1942,14,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Birth of the Blues,FALSE
 1941,1942,14,MUSIC (Scoring of a Musical Picture),Charles Previn,Buck Privates,FALSE
@@ -7282,11 +7282,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1995,1996,68,MUSIC (Original Score),John Williams,Nixon,FALSE
 1995,1996,68,MUSIC (Original Score),Luis Enrique Bacalov,The Postman (Il Postino),TRUE
 1995,1996,68,MUSIC (Original Score),Patrick Doyle,Sense and Sensibility,FALSE
-1995,1996,68,MUSIC (Original Musical or Comedy Score),Marc Shaiman,The American President,FALSE
-1995,1996,68,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,Pocahontas,TRUE
-1995,1996,68,MUSIC (Original Musical or Comedy Score),John Williams,Sabrina,FALSE
-1995,1996,68,MUSIC (Original Musical or Comedy Score),Randy Newman,Toy Story,FALSE
-1995,1996,68,MUSIC (Original Musical or Comedy Score),Thomas Newman,Unstrung Heroes,FALSE
+1995,1996,68,MUSIC (Original Score),Marc Shaiman,The American President,FALSE
+1995,1996,68,MUSIC (Original Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,Pocahontas,TRUE
+1995,1996,68,MUSIC (Original Score),John Williams,Sabrina,FALSE
+1995,1996,68,MUSIC (Original Score),Randy Newman,Toy Story,FALSE
+1995,1996,68,MUSIC (Original Score),Thomas Newman,Unstrung Heroes,FALSE
 1995,1996,68,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,Pocahontas,TRUE
 1995,1996,68,MUSIC (Original Song),Music and Lyric by Bruce Springsteen,Dead Man Walking,FALSE
 1995,1996,68,MUSIC (Original Song),"Music and Lyric by Michael Kamen, Bryan Adams and Robert John Lange",Don Juan DeMarco,FALSE
@@ -7395,11 +7395,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1996,1997,69,MUSIC (Original Score),Elliot Goldenthal,Michael Collins,FALSE
 1996,1997,69,MUSIC (Original Score),David Hirschfelder,Shine,FALSE
 1996,1997,69,MUSIC (Original Score),John Williams,Sleepers,FALSE
-1996,1997,69,MUSIC (Original Musical or Comedy Score),Rachel Portman,Emma,TRUE
-1996,1997,69,MUSIC (Original Musical or Comedy Score),Marc Shaiman,The First Wives Club,FALSE
-1996,1997,69,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,The Hunchback of Notre Dame,FALSE
-1996,1997,69,MUSIC (Original Musical or Comedy Score),Randy Newman,James and the Giant Peach,FALSE
-1996,1997,69,MUSIC (Original Musical or Comedy Score),Hans Zimmer,The Preacher's Wife,FALSE
+1996,1997,69,MUSIC (Original Score),Rachel Portman,Emma,TRUE
+1996,1997,69,MUSIC (Original Score),Marc Shaiman,The First Wives Club,FALSE
+1996,1997,69,MUSIC (Original Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,The Hunchback of Notre Dame,FALSE
+1996,1997,69,MUSIC (Original Score),Randy Newman,James and the Giant Peach,FALSE
+1996,1997,69,MUSIC (Original Score),Hans Zimmer,The Preacher's Wife,FALSE
 1996,1997,69,MUSIC (Original Song),Music and Lyric by Diane Warren,Up Close and Personal,FALSE
 1996,1997,69,MUSIC (Original Song),"Music and Lyric by James Newton Howard, Jud J. Friedman and Allan Dennis Rich",One Fine Day,FALSE
 1996,1997,69,MUSIC (Original Song),"Music and Lyric by Barbra Streisand, Marvin Hamlisch, Bryan Adams and Robert 'Mutt' Lange",The Mirror Has Two Faces,FALSE
@@ -7508,11 +7508,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1997,1998,70,MUSIC (Original Score),Philip Glass,Kundun,FALSE
 1997,1998,70,MUSIC (Original Score),Jerry Goldsmith,L.A. Confidential,FALSE
 1997,1998,70,MUSIC (Original Score),James Horner,Titanic,TRUE
-1997,1998,70,MUSIC (Original Musical or Comedy Score),Music by Stephen Flaherty; Lyrics by Lynn Ahrens; Orchestral Score by David Newman,Anastasia,FALSE
-1997,1998,70,MUSIC (Original Musical or Comedy Score),Hans Zimmer,As Good as It Gets,FALSE
-1997,1998,70,MUSIC (Original Musical or Comedy Score),Anne Dudley,The Full Monty,TRUE
-1997,1998,70,MUSIC (Original Musical or Comedy Score),Danny Elfman,Men in Black,FALSE
-1997,1998,70,MUSIC (Original Musical or Comedy Score),James Newton Howard,My Best Friend's Wedding,FALSE
+1997,1998,70,MUSIC (Original Score),Music by Stephen Flaherty; Lyrics by Lynn Ahrens; Orchestral Score by David Newman,Anastasia,FALSE
+1997,1998,70,MUSIC (Original Score),Hans Zimmer,As Good as It Gets,FALSE
+1997,1998,70,MUSIC (Original Score),Anne Dudley,The Full Monty,TRUE
+1997,1998,70,MUSIC (Original Score),Danny Elfman,Men in Black,FALSE
+1997,1998,70,MUSIC (Original Score),James Newton Howard,My Best Friend's Wedding,FALSE
 1997,1998,70,MUSIC (Original Song),Music by Alan Menken; Lyric by David Zippel,Hercules,FALSE
 1997,1998,70,MUSIC (Original Song),Music and Lyric by Diane Warren,Con Air,FALSE
 1997,1998,70,MUSIC (Original Song),Music by Stephen Flaherty; Lyric by Lynn Ahrens,Anastasia,FALSE
@@ -7620,11 +7620,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1998,1999,71,MUSIC (Original Score),Randy Newman,Pleasantville,FALSE
 1998,1999,71,MUSIC (Original Score),John Williams,Saving Private Ryan,FALSE
 1998,1999,71,MUSIC (Original Score),Hans Zimmer,The Thin Red Line,FALSE
-1998,1999,71,MUSIC (Original Musical or Comedy Score),Randy Newman,A Bug's Life,FALSE
-1998,1999,71,MUSIC (Original Musical or Comedy Score),Music by Matthew Wilder; Lyrics by David Zippel; Orchestral Score by Jerry Goldsmith,Mulan,FALSE
-1998,1999,71,MUSIC (Original Musical or Comedy Score),Marc Shaiman,Patch Adams,FALSE
-1998,1999,71,MUSIC (Original Musical or Comedy Score),Music and Lyrics by Stephen Schwartz; Orchestral Score by Hans Zimmer,The Prince of Egypt,FALSE
-1998,1999,71,MUSIC (Original Musical or Comedy Score),Stephen Warbeck,Shakespeare in Love,TRUE
+1998,1999,71,MUSIC (Original Score),Randy Newman,A Bug's Life,FALSE
+1998,1999,71,MUSIC (Original Score),Music by Matthew Wilder; Lyrics by David Zippel; Orchestral Score by Jerry Goldsmith,Mulan,FALSE
+1998,1999,71,MUSIC (Original Score),Marc Shaiman,Patch Adams,FALSE
+1998,1999,71,MUSIC (Original Score),Music and Lyrics by Stephen Schwartz; Orchestral Score by Hans Zimmer,The Prince of Egypt,FALSE
+1998,1999,71,MUSIC (Original Score),Stephen Warbeck,Shakespeare in Love,TRUE
 1998,1999,71,MUSIC (Original Song),Music and Lyric by Diane Warren,Armageddon,FALSE
 1998,1999,71,MUSIC (Original Song),"Music by Carole Bayer Sager and David Foster; Lyric by Carole Bayer Sager, David Foster, Tony Renis and Alberto Testa",Quest for Camelot,FALSE
 1998,1999,71,MUSIC (Original Song),Music and Lyric by Allison Moorer and Gwil Owen,The Horse Whisperer,FALSE
