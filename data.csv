@@ -73,10 +73,10 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1929,1930,3,ACTOR,George Arliss,Disraeli,TRUE
 1929,1930,3,ACTRESS,Norma Shearer,The Divorcee,TRUE
 1929,1930,3,ART DIRECTION,Herman Rosse,King of Jazz,TRUE
-1929,1930,3,CINEMATOGRAPHY,Joseph T. Rucker\nWillard Van Der Veer,With Byrd at the South Pole,TRUE
+1929,1930,3,CINEMATOGRAPHY,Joseph T. Rucker\rWillard Van Der Veer,With Byrd at the South Pole,TRUE
 1929,1930,3,DIRECTING,Lewis Milestone,All Quiet on the Western Front,TRUE
 1929,1930,3,OUTSTANDING PRODUCTION,Universal,All Quiet on the Western Front,TRUE
-1929,1930,3,SOUND RECORDING,Metro-Goldwyn-Mayer Studio\nDouglas Shearer,The Big House,TRUE
+1929,1930,3,SOUND RECORDING,Metro-Goldwyn-Mayer Studio\rDouglas Shearer,The Big House,TRUE
 1929,1930,3,WRITING,Frances Marion,The Big House,TRUE
 1929,1930,3,ACTOR,George Arliss,The Green Goddess,FALSE
 1929,1930,3,ACTOR,Wallace Beery,The Big House,FALSE
